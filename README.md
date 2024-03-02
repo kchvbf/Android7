@@ -7,3 +7,5 @@
 ![P4-4](https://github.com/kchvbf/Android7/assets/109752188/9ee309a8-a729-4c26-8eab-3576d3e060ea)
 
 ![P4-5](https://github.com/kchvbf/Android7/assets/109752188/5f0d0835-9457-4e5a-a419-574f30bd9ace)
+
+![P4-6](https://github.com/kchvbf/Android7/assets/109752188/77608733-6ed1-4c77-87b0-87e3890e36e9)
