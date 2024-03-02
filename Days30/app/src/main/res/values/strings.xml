@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Days30</string>
+    <string name="btn_content_desc">Узнать мудрость</string>
+
+    <string name="wisdom">Мудрость дня</string>
+
+    <string name="name_1"> День 1 - ЛЭТИ </string>
+    <string name="name_2"> День 2 - 9 мая </string>
+    <string name="name_3"> День 3 - Грузинскрий ресторан </string>
+    <string name="name_4"> День 4 - Красивый закат </string>
+    <string name="name_5"> День 5 - Ресторан F11 </string>
+    <string name="name_6"> День 6 - Красивая стена </string>
+    <string name="name_7"> День 7 - Охта парк </string>
+    <string name="name_8"> День 8 - День влюблённых</string>
+    <string name="name_9"> День 9 - Чайхона</string>
+    <string name="name_10"> День 10 - Вертолёт </string>
+    <string name="name_11"> День 11 - Кремль </string>
+    <string name="name_12"> День 12 - Камин </string>
+    <string name="name_13"> День 13 - Большая туча </string>
+    <string name="name_14"> День 14 - Тучи больше нет </string>
+    <string name="name_15"> День 15 - Бюст рядом с камином </string>
+    <string name="name_16"> День 16 - Птица в небе </string>
+    <string name="name_17"> День 17 - Красивый закат 2 </string>
+    <string name="name_18"> День 18 - Полумесяц в небе </string>
+    <string name="name_19"> День 19 - Алые Паруса </string>
+    <string name="name_20"> День 20 - Главный штаб </string>
+    <string name="name_21"> День 21 - Красивый закат 3 </string>
+    <string name="name_22"> День 22 - Музей ВМФ </string>
+    <string name="name_23"> День 23 - Главный банк </string>
+    <string name="name_24"> День 24 - Кораблик с Адмиралтейства </string>
+    <string name="name_25"> День 25 - Кронштадт </string>
+    <string name="name_26"> День 26 - Пётр I </string>
+    <string name="name_27"> День 27 - Музей ВМФ 2 </string>
+    <string name="name_28"> День 28 - Зима </string>
+    <string name="name_29"> День 29 - Алмазово </string>
+    <string name="name_30"> День 30 - Музей ВМФ 3 </string>
+
+    <string name="desc_1">Великая цель образования — не только знания, но и прежде всего действия.</string>
+    <string name="desc_2">Мир — дело великое.</string>
+    <string name="desc_3">Лиса в свидетели свой хвост назвала. Грузинская пословица.</string>
+    <string name="desc_4">Всё вокруг иллюзорно, и только закат даёт мне понять, что я существую.</string>
+    <string name="desc_5">В любом ресторане порция любого блюда, которое вам подадут, будет меньше, чем год назад.</string>
+    <string name="desc_6">Вы обладаете властью, если другие думают, что вы обладаете властью.</string>
+    <string name="desc_7">Дом вести — не головой трясти — все надо припасти.</string>
+    <string name="desc_8">Я довольный, ты милая - вместе мы довольно милые.</string>
+    <string name="desc_9">Я бы чего нибудь съел, необязательно мало, лишь бы вкусно.</string>
+    <string name="desc_10">Вкпиолёт, не рояль, в три руки не сыграешь!</string>
+    <string name="desc_11">Кто Царь-колокол подымет? Кто Царь-пушку повернёт? Шляпы кто, гордец, не снимет. У святых в Кремле ворот?!</string>
+    <string name="desc_12"> Метель будет носиться за окном, И пламя завораживать в камине. А мы с тобой любуемся вдвоём, Там где красный отблеск, на перине.</string>
+    <string name="desc_13"> Даже если вокруг СОЛНЦА толкуться тучи, оно не прекращает светить, так и ЧЕЛОВЕК, должен оставаться ЧЕЛОВЕКОМ, какие бы звери вокруг него не кружили.</string>
+    <string name="desc_14"> Некоторые люди наслаждаются дождем , другие просто промокают.</string>
+    <string name="desc_15"> По мне, так пусть лучше люди спрашивают: «почему Катону нет памятника?», чем «почему Катону поставили памятник?»</string>
+    <string name="desc_16"> Лучше синица в руках, чем журавль в небе. </string>
+    <string name="desc_17"> Глаза их полны заката, Сердца их полны рассвета.</string>
+    <string name="desc_18"> Могут ли люди жить на луне, если она существует только ночью, а днем исчезает?</string>
+    <string name="desc_19">  </string>
+    <string name="desc_20"> Живопись способна измыслить реальность без того, чтобы ее увидеть.</string>
+    <string name="desc_21"> Отгремели салюты, ну всё, возвращайте лето! </string>
+    <string name="desc_22"> Не море топит корабли, а ветер. </string>
+    <string name="desc_23"> Банк - это то место, где вам дадут денег взаймы, если вы докажете, что они вам не нужны. </string>
+    <string name="desc_24"> Крепость или верфь? </string>
+    <string name="desc_25"> Дом для кораблей. </string>
+    <string name="desc_26"> Достоин дела - тель мзды своея. </string>
+    <string name="desc_27"> Хороший корабль сам себя хвалит. </string>
+    <string name="desc_28"> Сквозь снежные завесы пробивается лучик солнца, и яркое сияние обещает весну. </string>
+    <string name="desc_29"> Для рук врача очень важна постоянная практика. </string>
+    <string name="desc_30"> Корабль без простора морского, что сердце без любви. </string>
+
+
+
+</resources>
